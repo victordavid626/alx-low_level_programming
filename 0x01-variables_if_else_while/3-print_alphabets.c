@@ -2,7 +2,6 @@
 
 /**
  * main - Prints the alphabet in lowercase, and then in uppercase.
- * This program prints lowercase and uppercase alphabets
  * Return: Always 0.
  */
 
