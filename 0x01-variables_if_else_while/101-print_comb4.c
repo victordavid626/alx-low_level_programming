@@ -28,5 +28,5 @@ int i, j;
 	}
 	}
 	putchar('\n');
-	Return (0);
+	Return(0);
 }
