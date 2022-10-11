@@ -1,1 +1,1 @@
-Learning c low language
+Learning C low-level language
