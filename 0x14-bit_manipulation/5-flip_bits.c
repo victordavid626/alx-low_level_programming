@@ -17,7 +17,7 @@ unsigned int flip_bits(unsigned long int n, unsigned long int m)
 	{
 	if (result == (differnce & result))
 		j++;
-		result <<= 1;
+	result <<= 1;
 	}
 
 	return (j);
